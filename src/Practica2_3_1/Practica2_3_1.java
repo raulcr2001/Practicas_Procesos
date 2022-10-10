@@ -8,7 +8,7 @@ public class Practica2_3_1 {
         29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41
     };
 
-    implementacionSecuencial(vector);
+    //implementacionSecuencial(vector);
 
     static void implementacionSecuencial(long[] vector) {
         long t1;
